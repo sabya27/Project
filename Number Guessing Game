@@ -7,7 +7,7 @@ class GuessingGame {
      }
 
      /**
-      * @param guessNumber the number that player guessed
+      * @ guessNumber the number that player guessed
       * @return
       * - Negative if the guessed number is smaller
       * - 0 if the guessed number is correct.
